@@ -1,0 +1,15 @@
+current directory: /home/developers-computer/Desktop/ruby_practice/online_movie_ticket_booking/online_movie_ticket_booking/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+/home/developers-computer/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/developers-computer/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20240419-10513-si7qvc.rb extconf.rb
+creating Makefile
+
+current directory: /home/developers-computer/Desktop/ruby_practice/online_movie_ticket_booking/online_movie_ticket_booking/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/developers-computer/Desktop/ruby_practice/online_movie_ticket_booking/online_movie_ticket_booking/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/developers-computer/Desktop/ruby_practice/online_movie_ticket_booking/online_movie_ticket_booking/vendor/bundle/ruby/3.1.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -m 0755 cparse.so ./.gem.20240419-10513-ngyvh3/racc
