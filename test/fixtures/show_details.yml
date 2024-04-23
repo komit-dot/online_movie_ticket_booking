@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: 2024-04-20 19:50:23
+  end_time: 2024-04-20 19:50:23
+  movie_id: 1
+  auditorium_id: 1
+
+two:
+  start_time: 2024-04-20 19:50:23
+  end_time: 2024-04-20 19:50:23
+  movie_id: 1
+  auditorium_id: 1

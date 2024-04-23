@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  seat_type: MyString
+  row_name: MyString
+  auditorium_id: 1
+  show_detail_id: 1
+
+two:
+  seat_type: MyString
+  row_name: MyString
+  auditorium_id: 1
+  show_detail_id: 1
